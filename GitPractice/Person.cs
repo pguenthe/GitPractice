@@ -8,5 +8,7 @@ namespace GitPractice
 {
     class Person
     {
+        //hey it's a comment
+        //whatever
     }
 }
